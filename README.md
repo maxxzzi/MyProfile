@@ -13,5 +13,7 @@ This is my Profile
 * 📫 How to reach me: contact me through messenger or facebook
 * ❤️ I love my dog
 * ⚡ Fun fact: no
-
+  
+<div align="center">
 <img src="https://media.tenor.com/3UK3aqKDXwQAAAAM/tuff-baby-ai-baby.gif" />
+<div/>
