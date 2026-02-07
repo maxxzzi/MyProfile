@@ -12,4 +12,4 @@ This is my Profile
 * ❤️ I love my dog
 * ⚡ Fun fact: no
 
-<img scr="https://i.pinimg.com/1200x/41/90/46/41904675d758ab710a28c7e9a321400a.jpg"
+<img scr="https://i.pinimg.com/1200x/41/90/46/41904675d758ab710a28c7e9a321400a.jpg" />
